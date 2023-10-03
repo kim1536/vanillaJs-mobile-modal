@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'BIZ UDPGothic';
+  src: url('./assets/font/BIZUDPGothic-Regular.woff') format('woff'),
+       url('./assets/font/BIZUDPGothic-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/font/Inter-VariableFont_slnt\,wght.woff') format('woff'),
+       url('./assets/font/Inter-VariableFont_slnt\,wght.woff2') format('woff2');
+}
+
+.container {
+  background-color: #79C2CB;
+  height: 100vh;
+}
